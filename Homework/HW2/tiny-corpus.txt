@@ -1,0 +1,2 @@
+positive snippet .	1
+negative snippet .	0
